@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>bhanu-1</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.105.65:8081/repository/ok-snapshot/</url>
+	      <url>http://65.2.183.79:8081/repository/ok-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
